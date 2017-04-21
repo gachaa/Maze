@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					595D9E1A1EA8ED4C00419265 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 72UU55A8N3;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,7 +261,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 72UU55A8N3;
 				INFOPLIST_FILE = Maze/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Erika-Maemoto.Maze";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -272,7 +275,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 72UU55A8N3;
 				INFOPLIST_FILE = Maze/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Erika-Maemoto.Maze";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -299,6 +304,7 @@
 				595D9E2F1EA8ED4C00419265 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
